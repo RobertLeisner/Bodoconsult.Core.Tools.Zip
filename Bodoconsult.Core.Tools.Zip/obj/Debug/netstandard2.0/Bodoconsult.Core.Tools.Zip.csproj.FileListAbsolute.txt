@@ -1,0 +1,7 @@
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\bin\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.deps.json
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\bin\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.dll
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\bin\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.pdb
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\obj\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.csprojAssemblyReference.cache
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\obj\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.dll
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\obj\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.pdb
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Tools.Zip\Bodoconsult.Core.Tools.Zip\obj\Debug\netstandard2.0\Bodoconsult.Core.Tools.Zip.csproj.CoreCompileInputs.cache

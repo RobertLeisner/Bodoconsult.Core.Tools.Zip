@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPlDLSXYhMG0CHTnD7TPYwjjLuXjm/M7yuBqmo/88R9C1BQ7aNZy8Dw7qXutul/YkwSXaqOVaHFtsZaNhL2AyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Daten\\Projekte\\Tools\\Bodoconsult.Core.Tools.Zip\\Bodoconsult.Core.Tools.Zip\\Bodoconsult.Core.Tools.Zip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rleisner\\.nuget\\packages\\dotnetzip\\1.14.0\\dotnetzip.1.14.0.nupkg.sha512",
+    "C:\\Users\\rleisner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rleisner\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\rleisner\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\rleisner\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\rleisner\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
