@@ -7,17 +7,24 @@
     <RepositoryUrl>https://github.com/RobertLeisner/Bodoconsult.Core.Web.Mail</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>Bodoconsult.Core.Tools.Zip</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.3</Version>
     <Authors>Robert Leisner</Authors>
     <Company>Bodoconsult EDV-Dienstleistungen GmbH</Company>
     <RepositoryType>git</RepositoryType>
     <PackageTags>c# ZIP files pack unpack</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>Bodoconsult.Core.Tools.Zip library is intended for apps requiring easy handling of ZIP archives containing one or more files</Description>
+	  <PackageReleaseNotes>Migration to .NET 6 and updated dependencies</PackageReleaseNotes>
+	  <Description>Bodoconsult.Core.Tools.Zip library is intended for apps requiring easy handling of ZIP archives containing one or more files</Description>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DotNetZip" Version="1.14.0" />
+    <PackageReference Include="DotNetZip" Version="1.16.0" />
   </ItemGroup>
+
+	<ItemGroup>
+		<None Include="..\LICENSE.md" Link="LICENSE.md" />
+		<None Include="..\README.md" Link="README.md" Pack="true" PackagePath="\" />
+	</ItemGroup>
 
 </Project>
